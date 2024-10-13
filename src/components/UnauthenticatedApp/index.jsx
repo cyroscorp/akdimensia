@@ -6,7 +6,7 @@ function UnauthenticatedApp() {
 
     return (
         <>
-            <h2>Log in to enter</h2>
+            <h2>Log in to Enter</h2>
             <div>
                 <button onClick={login} className="login">
                     Login with Google
